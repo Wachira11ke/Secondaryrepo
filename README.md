@@ -1,11 +1,5 @@
 # Delftscopetech
-Tutorials
-<<<<<<< HEAD
 
-Experts are welcome to write for us!
+DelftStack is a resource for everyone interested in programming, embedded software, and electronics. It covers the programming languages like Python, C/C++, C#, and so on in this website’s first development stage. 
 
-Welcome all!
-=======
-Newbies allowed
-Experts are welcome to write for us!
->>>>>>> refs/remotes/origin/main
+Open-source hardware also falls in the website’s scope, like Arduino, Raspberry Pi, and BeagleBone. DelftStack aims to provide tutorials, how-to’s, and cheat sheets to different levels of developers and hobbyists.
