@@ -12,3 +12,11 @@
         }
     }
 ?>
+ality == "Dutch")
+    {
+        if ($a >= 18) {
+            echo "Eligible to vote";
+        }
+        else {
+            echo "Not eligible to vote";
+        }
