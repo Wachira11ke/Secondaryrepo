@@ -1,5 +1,5 @@
 <?php
-
+#method
 $file = $_GET["file"] .".pdf";
 
 // We will be outputting a PDF
